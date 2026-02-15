@@ -1,3 +1,22 @@
+👋 Hi, I'm Shlok
+
+Software Engineer ⚙️ | Backend & Automation  
+n8n • AI Agents 🤖 • Full-Stack Web 🌐
+
+🚀 What I build:
+• n8n automations & workflows
+• AI agents & bots
+• Backend APIs & systems
+• Full-stack web apps
+
+📌 Featured Projects:
+🔹 Project 1 – n8n Automation
+🔹 Project 2 – AI Agent
+🔹 Project 3 – Full-stack App
+
+📫 Connect:
+Instagram | Telegram
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dar.lord6006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shloktripathi901@gmail.com) 
